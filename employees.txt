@@ -1,0 +1,50 @@
+1, Ludwick,Harrell,11/15/1982,Male,Gaborone,marketing executive,5/12/2014,Markerting,8,21,21,15,2309.67,5.6
+2, Christie,Harrington,12/2/1978,Female,Maun,marketing executive,1/7/2013,Markerting,8,22,21,15,2198.8,5.6
+3, Kara,Harrison,10/7/1986,Female,Kanye,marketing executive,4/2/2012,Markerting,8,16.75,21,15,2345.9,5.6
+4, Anthony,Heitzman,9/5/1991,Female,Maun,marketing executive,4/4/2011,Markerting,8,17,21,15,1100,5.6
+5, Rose,Ivey,5/31/1974,Male,Mahalapye,marketing executive,11/10/2014,Markerting,8,21.25,21,15,7779,5.6
+6, Maryellen,Jackson,8/25/1978,Male,Kasane,marketing executive,3/31/2014,Markerting,8,21,21,15,6098.632,5.6
+7, Hannah,Jacobi,9/2/1983,Male,Gaborone,marketing executive,4/2/2012,Markerting,8,17,21,15,7082.618,5.6
+8, Sneha,Jhaveri,5/6/1989,Female,Maun,marketing executive,2/17/2014,Markerting,8,18,21,15,8066.604,5.6
+9, George,Johnson,4/14/1955,Female,Gaborone,marketing executive,11/7/2011,Markerting,8,20,21,15,9050.59,5.6
+10, Judy,Jung,10/18/1989,Male,Maun,marketing executive,5/11/2015,Markerting,8,18,21,15,10034.576,5.6
+11, Kramer,Keatts,6/10/1986,Female,Kanye,marketing executive,2/20/2012,Markerting,8,23,21,15,11018.562,5.6
+12, Kathleen,Kinsella,3/16/1981,Female,Maun,marketing executive,1/9/2012,Markerting,8,24,21,15,12002.548,5.6
+13, Alexandra,Kirill,9/15/1985,Male,Mahalapye,marketing executive,3/30/2015,Markerting,8,19,21,15,12986.534,5.6
+14, Bradley  J,Knapp,4/18/1980,Male,Kasane,marketing executive,7/8/2013,Markerting,8,18,21,15,13970.52,5.6
+15, John,Kretschmer,12/2/1983,Female,Gaborone,marketing executive,5/16/2011,Markerting,8,24,21,15,14954.506,5.6
+16, Enrico,Langton,10/1/1990,Female,Maun,marketing executive,3/30/2015,Markerting,8,19,21,15,15938.492,5.6
+17, Dallas,Leach,5/15/1970,Female,Gaborone,marketing executive,11/7/2011,Markerting,8,22,21,15,16922.478,5.6
+18, Jonathan ,LeBel,8/9/1974,Male,Maun,marketing executive,4/2/2012,Markerting,8,15,21,15,17906.464,5.6
+19, Marilyn ,Linares,5/8/1980,Female,Kanye,marketing executive,9/29/2014,Markerting,8,16,21,15,18890.45,5.6
+20, Allison,Lydon,6/18/1992,Female,Maun,marketing executive,11/11/2013,Markerting,8,17,21,15,19874.436,5.6
+21, Lindsay,Lynch,9/29/1969,Male,Mahalapye,marketing executive,7/11/2011,Markerting,8,16,21,15,20858.422,5.6
+22, Samuel,MacLennan,5/21/1979,Male,Kasane,marketing executive,7/2/2012,Markerting,8,15,21,15,21842.408,5.6
+23, Lauren  ,Mahoney,10/9/1974,Female,Gaborone,marketing executive,8/19/2013,Markerting,8,24,21,15,22826.394,5.6
+24, Debbie,Mangal,5/21/1983,Female,Maun,marketing executive,2/21/2011,Markerting,8,14,21,15,23810.38,5.6
+25, Shana,Maurice,3/23/1977,Female,Gaborone,marketing executive,11/28/2011,Markerting,8,24,21,15,24794.366,5.6
+26, Geoff,Dickinson,9/2/1982,Male,Maun,ICT,5/14/2012,Support staff ,8,21,21,0,25778.352,5.6
+27, Lily,DiNocco,8/18/1952,Female,Kanye,Sales,1/9/2012,Support staff ,8,19.75,21,0,26762.338,5.6
+28, Denisa,Dobrin,5/2/1974,Female,Maun,Drivers,5/12/2014,Support staff ,8,20,21,0,27746.324,5.6
+29, Marianne,Eaton,1/4/1984,Male,Mahalapye,Tour Operators,8/13/2012,Support staff ,8,19,21,0,28730.31,5.6
+30, Jean,Engdahl,1/28/1991,Female,Kasane,ICT,8/19/2013,Support staff ,8,16,21,0,29714.296,5.6
+31, Rex,England,9/11/1972,Female,Gaborone,Sales,11/5/2012,Support staff ,8,20,21,0,30698.282,5.6
+32, Miguel,Estremera,3/22/1966,Female,Maun,Drivers,9/30/2013,Support staff ,8,21,21,0,31682.268,5.6
+33, April,Evensen,4/13/1964,Female,Gaborone,Tour Operators,1/6/2014,Support staff ,8,19,21,0,32666.254,5.6
+34, Susan,Ferguson,8/19/1959,Male,Maun,Sales,11/7/2011,Support staff ,8,17,21,0,33650.24,5.6
+35, Nilson,Fernandes,4/17/1986,Female,Kanye,Sales,1/10/2011,Support staff ,8,21,21,0,34634.226,5.6
+36, Violeta,Ferreira,1/19/1976,Male,Maun,Human Resources Officer,9/30/2013,Human Resources,8,19,21,15,35618.212,5.6
+37,  Libby,Fidelia,12/8/1973,Female,Mahalapye,Accounts Officer,9/26/2011,Finance,8,22,21,15,36602.198,5.6
+38, Raul,Garcia,10/8/1970,Female,Kasane,Human Resources Officer,9/26/2011,Human Resources,8,24,21,15,37586.184,5.6
+39, Hamish,Garneau,11/10/1977,Male,Gaborone,Accounts Officer,2/17/2014,Finance,8,14,21,15,38570.17,5.6
+40, Barbara,Gaul,2/2/1980,Male,Maun,Human Resources Officer,1/10/2011,Human Resources,8,21,21,15,39554.156,5.6
+41, Mildred,Gentry,12/9/1986,Male,Gaborone,Accounts Officer,7/9/2012,Finance,8,17,21,15,40538.142,5.6
+42, Melisa,Gerke,1/17/1979,Female,Maun,Human Resources Officer,9/26/2011,Human Resources,8,19,21,15,41522.128,5.6
+43, Alex,Gilles,10/18/1981,Male,Kanye,Accounts Officer,2/21/2011,Finance,8,15,21,15,42506.114,5.6
+44, Evelyn,Girifalco,3/26/1981,Female,Maun,Human Resources Officer,7/5/2011,Human Resources,8,15.25,21,15,43490.1,5.6
+45, Shenice,Gold,10/22/1975,Female,Mahalapye,Accounts Officer,2/16/2015,Finance,8,20,21,15,44474.086,5.6
+46, Cayo,Gonzalez,2/14/1973,Female,Kasane,Sales,11/7/2011,temp staff,8,19,21,0,45458.072,5.6
+47, David,Gordon,11/9/1972,Male,Gaborone,Sales,9/24/2012,temp staff,8,15,21,0,46442.058,5.6
+48, Roxana,Goyal,7/7/1986,Female,Maun,Sales,1/6/2014,temp staff,8,17,21,0,47426.044,5.6
+49, Paula,Gross,11/7/1974,Female,Gaborone,ICT,11/11/2013,temp staff,8,23,21,0,48410.03,5.6
+50, Joanne,Handschiegl,11/22/1977,Female,Maun,CEO,5/31/2011,Management,8,20,21,30,10000.12,5.6
